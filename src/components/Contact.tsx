@@ -72,7 +72,7 @@ export default function Contact() {
               <Mail className="h-6 w-6 text-orange-500 flex-shrink-0" />
               <div>
                 <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                <p className="text-gray-600">contato@scorpiontech.com.br</p>
+                <p className="text-gray-600">marcolinoaraujodelemos@gmail.com</p>
               </div>
             </div>
 
@@ -80,7 +80,8 @@ export default function Contact() {
               <Phone className="h-6 w-6 text-orange-500 flex-shrink-0" />
               <div>
                 <h3 className="text-lg font-medium text-gray-900">Telefone</h3>
-                <p className="text-gray-600">(11) 9999-9999</p>
+              
+                <p className="text-gray-600">+55 (48)988137949  </p>
               </div>
             </div>
 
@@ -89,8 +90,8 @@ export default function Contact() {
               <div>
                 <h3 className="text-lg font-medium text-gray-900">Endereço</h3>
                 <p className="text-gray-600">
-                  Av. Paulista, 1000<br />
-                  São Paulo - SP
+                  Jardim das Avenidas <br />
+                  Ararángua-SC
                 </p>
               </div>
             </div>
