@@ -38,9 +38,9 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contato</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>contato@scorpiontech.com.br</li>
-              <li>(11) 9999-9999</li>
-              <li>Av. Paulista, 1000<br />São Paulo - SP</li>
+              <li>marcolinoaraujodelemos@gmail.com</li>
+              <li>+55 (48)988137949 </li>
+              <li>Jardim das Avenidas<br />Ararángua-SC</li>
             </ul>
           </div>
         </div>
